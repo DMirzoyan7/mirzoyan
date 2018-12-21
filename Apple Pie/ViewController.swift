@@ -10,17 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
     var listOfWords = [
-        "арбуз",
-        "банан",
-        "гном",
-        "дом",
-        "ель",
-        "ёж",
-        "железная Дорога",
-        "часы",
-        "курица",
-        "человек",
-        "ложка"
+        "телефон",
+        "сладость",
+        "ишак",
+        "гол",
+        "ереван",
+        "грузия",
+        "реал мадрид",
+        "еда",
+        "площадка",
+        "песня",
+        "мяч"
            ]
     @IBOutlet weak var treeImageView: UIImageView!
     @IBOutlet var letterButtons: [UIButton]!
